@@ -1,3 +1,7 @@
+# Web Media Detector
+It is work in progress, for now it only detects firefox media
+
+
 # Web Extension Boilerplate
 
 <div align="center">
